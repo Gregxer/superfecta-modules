@@ -25,3 +25,4 @@ class LocalTel_CH extends superfecta_base {
     }
 
 }
+
